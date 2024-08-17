@@ -20,5 +20,5 @@ When I am not coding, I read books, and explore varieties of things to learn - I
 
  
 ### 📫 Where to find me
-- [Twitter](https://twitter.com/Nim0tallah__) 🐤
 - [LinkedIn](https://www.linkedin.com/in/idera-ni-mah-yusuf-3b2767245) 👩💼
+- [Twitter](https://twitter.com/Nim0tallah__) 🐤

@@ -1,6 +1,6 @@
 ﻿### Hi there 👋, I am Idera.
 I am a Frontend Developer. I've collaborated with UI/UX designers in order to build my skills and have more solid projects.
-When I am not coding, I read books, and explore varieties of things to learn - I'm always learning,and I write.
+When I am not coding, I read books, and explore varieties of things to learn - I'm an active learner,and I love to  write.
 
 - 🔭 I have a [blog on hashnode](https://ideranimah.hashnode.dev/) where I write my thoughts from time to time. You don't want to miss out on those.
 
